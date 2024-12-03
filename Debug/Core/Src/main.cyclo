@@ -1,0 +1,8 @@
+main.c:72:5:main	1
+main.c:121:6:SystemClock_Config	4
+main.c:164:13:MX_ADC1_Init	5
+main.c:222:13:MX_TIM3_Init	4
+main.c:262:13:MX_DMA_Init	1
+main.c:279:13:MX_GPIO_Init	1
+main.c:292:6:ADC_CONVERSION_COMPLETE	1
+main.c:301:6:Error_Handler	1
